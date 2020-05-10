@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 268 196.9" style="enable-background:new 0 0 268 196.9;" xml:space="preserve">
+<style type="text/css">
+	
+    
+  .st0{
+    fill-opacity: 0;
+    stroke: #3E5369;
+    stroke-width: 2;
+    stroke-dasharray: 2000;
+    stroke-dashoffset: 2000;
+    animation: draw 4s linear;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+  }
+
+
+@keyframes draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+</style>
+<title>moi</title>
+<g id="Layer_2">
+	<g id="Layer_1-2">
+		<path class="st0" d="M268,195.5c-31.2,0.7-65.1-0.7-69.2-6.5c-3-4.2-3.4-18.5-3.8-26.4c-0.4-7,1.9-24,4.3-33.1
+			s14.4-45.1,25.5-51.3s-0.4,26.3-5.7,23.9s-5.4-3.3-1-15.8s7.2-31.7-23.1-49s-62.9-2.4-73.5,3.8s-30.7,34.6-9.6,64.4
+			s-1,38.8,7.7,48.4s48,6.2,43.8,0.6c-9.6-13-47.2-7.5-44.8,7.4s27.9,24,48.5,17.2s10.6-17.3,8.6-25.5s12-29.4,22.1-53.4
+			s-44.7-18.7-49.5-22.1s-32.9,8-26.6-6.9s17.3-2.3,22,3.9s-9.4,28.9-12.6,35.9s18.3,51.5,25.2,5.8c13.7-89.9,56-12.5,44.7-40.4
+			c-7.9-19.6-17.9-7-23.3-3.3c-1.5,1-13.7,4.3-10.5-0.6s6.2-32.5,22.5-20.2c5.9,4.6,12.3,8.4,19.1,11.4c0,0,13.9,7,9.1,19.1
+			c-41.7,104.7,23.3,6.2,23.3-5.1c-0.2-42.2-82.9-94.2-94.6-70.9s-35.3,2.6-35,21S89.9,58.5,96,72.1s21.7,17.5,24,37.6
+			s12,83.1-118.5,85.6l7-7v6.5"/>
+	</g>
+</g>
+</svg>
